@@ -1,0 +1,9 @@
+{
+  "name": "moduleloader-benchmark",
+  "version": "0.0.0",
+  "description": "moduleloader-benchmark",
+  "dependencies": {
+    "traceur": "0.0.32",
+    "es6-module-loader": "^0.5.4"
+  }
+}
