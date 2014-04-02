@@ -4,6 +4,7 @@
   "description": "moduleloader-benchmark",
   "dependencies": {
     "traceur": "0.0.32",
-    "es6-module-loader": "^0.5.4"
+    "es6-module-loader": "^0.5.4",
+    "server": "git://github.com/briandipalma/server"
   }
 }
